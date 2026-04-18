@@ -9,9 +9,9 @@
 | Dataset ID | `568250` |
 | Location | Michigan |
 | Category | Restaurants |
-| Full dataset size | 522 records |
-| Free sample size | 77 records (14.75%) |
-| Last export | 2026-04-01T00:17:28.330320+00:00 |
+| Full dataset size | 776 records |
+| Free sample size | 77 records (9.92%) |
+| Last export | 2026-04-15T02:03:44.682075+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-michigan-us-sample-568250/releases/download/sample-latest/beamstation_568250_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
